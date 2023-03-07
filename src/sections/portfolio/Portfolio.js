@@ -2,7 +2,7 @@ import './portfolio.css'
 
 const Portfolio = () => {
   return (
-    <section id="portfolio">Portfolio</section>
+    <section className="bg-gray-400 h-screen" id="portfolio">Portfolio</section>
   )
 }
 

@@ -2,7 +2,7 @@ import './home.css'
 
 const Home = () => {
   return (
-    <section id="home">Home</section>
+    <section className="bg-green-400 h-screen" id="portfolio">Home</section>
   )
 }
 

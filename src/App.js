@@ -5,12 +5,12 @@ import Contact from './sections/contact/Contact'
 
 function App() {
   return (
-    <>
+    <div class="container mx-auto px-4">
       <Header />
       <Home />
       <Portfolio />
       <Contact />
-    </>
+    </div>
   )
 }
 

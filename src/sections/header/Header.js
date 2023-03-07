@@ -1,8 +1,9 @@
 import './header.css'
+import Navbar from '../../components/Navbar'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <Navbar />
   )
 }
 
